@@ -1,5 +1,5 @@
 
-#Study+
+# Study+
 The software will provide the user with a study method recommendation for core courses
 & subjects delivered. This will be based on what course they have to study for, the
 nature of that course and research based on what works best for that course/ subject. It will provide study methods
