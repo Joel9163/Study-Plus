@@ -394,10 +394,10 @@ class Main {
 		br = new BufferedReader(new InputStreamReader(System.in));
 
 		// show welcome UI
-        welcomeUI();
+        	welcomeUI();
 
 		// recommend a study method
-        recommendMethod();
+       	 	recommendMethod();
 
 		// start study timer
 		studyTimer();
@@ -427,7 +427,7 @@ class Main {
 		}
 		
 		// show end screen
-        clearConsole();
+       		clearConsole();
 		UI.endScreen();
 
 		// stop timer
